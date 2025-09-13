@@ -16,5 +16,14 @@ to examine the dataset to reveal insights and formulate strategies for respondin
 The primary aim of this report is to analyze the data, identify patterns, and propose informed, data-driven recommendations
 that BoA can implement to effectively address and reduce customer complaints. 
 
+## Data Methodology
+The dataset was cleaned with python, duplicates were eliminated, null values were removed and  analysis were carried out with python using its libraries
+A dashboard was prepared on Power BI, the wireframe was done with Figma.
+
+## Key Insights
+
+
+
+
 
 
