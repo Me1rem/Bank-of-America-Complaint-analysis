@@ -21,6 +21,23 @@ The dataset was cleaned with python, duplicates were eliminated, null values wer
 A dashboard was prepared on Power BI, the wireframe was done with Figma.
 
 ## Key Insights
+To see insights, Visit👇
+<a href ="https://github.com/Me1rem/Bank-of-America-Complaint-analysis/blob/main/TDI%20PYTHON%20CAPSTONE.pptx">View Insights</a>
+
+## Data Visualization
+To View dashboard, Visit👇
+<a href ="https://github.com/Me1rem/Bank-of-America-Complaint-analysis/blob/main/BOA%20Analysis.pdf">View Dashboard</a>
+
+To interact with dashboardVisit
+<a href ="https://github.com/Me1rem/Bank-of-America-Complaint-analysis/blob/main/BOA%20Analysis.pbix">View Dashboard</a>
+
+## How to Reproduce
+Clone the repo & set up the environment.
+Run the notebook  <a href ="https://github.com/Me1rem/Bank-of-America-Complaint-analysis/blob/main/TDI%20PYTHON%20CAPSTONE-2.ipynb">Python file</a>. This will pull data (2017–2023)and export data to excel or csv.
+Open Power BI and load data. Recreate visuals (or import the provided .pbix if included) and add DAX measures for % change.
+Export a screenshot.
+
+
 
 
 
